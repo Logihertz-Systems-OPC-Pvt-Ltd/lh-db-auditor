@@ -1,0 +1,9 @@
+Package: lh-db-auditor
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-db - Database Configuration Exposure & Privilege Severity Index
+ Enterprise database security posture auditor evaluating PostgreSQL, MySQL, Redis, and MongoDB configurations for unencrypted transport, superuser role grants, public bind addresses, and audit gaps.
